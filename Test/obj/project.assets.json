@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "RestSharp/106.12.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      },
+      "Covalent-Wrapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "RestSharp": "106.12.0"
+        },
+        "compile": {
+          "bin/placeholder/Covalent-Wrapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Covalent-Wrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestSharp/106.12.0": {
+      "sha512": "irOsQHe5nTJB0BKxGQnTX1dsgCPl5dLTxvL7gbl98JiFPiHMN4wpFyUG/66ZpaFCsIrPKh6XwozWXlwYe9JwYQ==",
+      "type": "package",
+      "path": "restsharp/106.12.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.12.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    },
+    "Covalent-Wrapper/1.0.0": {
+      "type": "project",
+      "path": "../Covalent-Wrapper/Covalent-Wrapper.csproj",
+      "msbuildProject": "../Covalent-Wrapper/Covalent-Wrapper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Covalent-Wrapper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ahmad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\Ahmad\\.nuget\\packages\\",
+      "outputPath": "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Covalent-Wrapper\\Covalent-Wrapper.csproj": {
+              "projectPath": "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Covalent-Wrapper\\Covalent-Wrapper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

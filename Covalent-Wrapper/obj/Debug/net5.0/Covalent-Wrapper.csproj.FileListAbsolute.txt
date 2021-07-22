@@ -1,0 +1,12 @@
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.csprojAssemblyReference.cache
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.AssemblyInfoInputs.cache
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.AssemblyInfo.cs
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.csproj.CoreCompileInputs.cache
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\bin\Debug\net5.0\Covalent-Wrapper.deps.json
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\bin\Debug\net5.0\Covalent-Wrapper.dll
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\bin\Debug\net5.0\ref\Covalent-Wrapper.dll
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\bin\Debug\net5.0\Covalent-Wrapper.pdb
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.dll
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\ref\Covalent-Wrapper.dll
+D:\mycodes\covalent\Covalent-Dotnet-Wrapper\Covalent-Wrapper\obj\Debug\net5.0\Covalent-Wrapper.pdb

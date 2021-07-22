@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTFKttzibUEkG2CVgUI2RejoUS9yjUxIRIEyQgIpbaxRl/rFUuHbUIAzLdYj4Rw3OD1g0Kku/hWQLkrdy+2rrQ==",
+  "success": true,
+  "projectFilePath": "D:\\mycodes\\covalent\\Covalent-Dotnet-Wrapper\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmad\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
